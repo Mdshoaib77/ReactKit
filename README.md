@@ -18,7 +18,9 @@ git clone https://github.com/Mdshoaib77/ReactKit.git
 
 
 ## 📦 Install Dependencies
+```bash
 npm install
 
 ## Run Development Server
+```bash
 npm run dev
