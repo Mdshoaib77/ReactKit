@@ -10,17 +10,15 @@ A simple React starter template built with:
 - React Router DOM
 
 ---
-
 ## 📥 How to Clone
 
-```bash
 git clone https://github.com/Mdshoaib77/ReactKit.git
 
-
 ## 📦 Install Dependencies
-```bash
+
 npm install
 
-## Run Development Server
-```bash
+## ▶ Run Development Server
+
 npm run dev
+
